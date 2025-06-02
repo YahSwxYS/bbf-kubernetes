@@ -1,0 +1,33 @@
+# 実行ファイル、プログラム系ファイル
+*.exe
+*.dll
+*.o
+*.class
+*.pyc
+*.obj
+
+# 機密情報
+*.env
+*.key
+*.pem
+
+# ログファイル
+*.log
+
+# VS Code のワークスペース定義ファイル
+*.code-workspace
+
+# Windows ショートカットファイル
+*.lnk
+
+# 圧縮ファイル
+*.zip
+*.tar
+*.gz
+
+# OS 固有 (macOS)
+*.DS_Store
+
+# OS 固有 (Windows)
+Thumbs.db
+Desktop.ini
