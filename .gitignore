@@ -7,6 +7,7 @@
 *.obj
 
 # 機密情報
+credentials
 *.env
 *.key
 *.pem
@@ -31,3 +32,6 @@
 # OS 固有 (Windows)
 Thumbs.db
 Desktop.ini
+
+# このフォルダ配下は git 管理対象外
+IGNORE/

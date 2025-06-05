@@ -1,15 +1,15 @@
-# p.55
+# テキスト p.55
 ## kubectl のダウンロードサイト
 http://kubernetes.io/docs/tasks/tools/#kubectl  
 
 ## kind のダウンロードサイト
 https://kind.sigs.k8s.io/docs/user/quick-start#installation  
 
-# p.68
+# テキスト p.68
 ## Kubernetes API Reference
 https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.29/  
 
-# p.86
+# テキスト p.86
 ## kubectl コマンドでの出力のログレベル
 https://kubernetes.io/docs/reference/kubectl/cheatsheet/#kubectl-output-verbosity-and-debugging  
 ```
