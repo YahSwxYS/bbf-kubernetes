@@ -21,6 +21,10 @@ credentials
 # Windows ショートカットファイル
 *.lnk
 
+# PDF
+*.pdf
+*.PDF
+
 # 圧縮ファイル
 *.zip
 *.tar
